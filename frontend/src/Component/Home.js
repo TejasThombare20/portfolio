@@ -14,9 +14,9 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-400 text-xl py-4 max-w-lg">
-            i have 1 year of experience buliding and designing responsive
+            i have 2 year of experience buliding and designing responsive
             webiste Currently I love to work on web application using MERN stack
-            development
+            development 
           </p>
 
           <div>
@@ -28,7 +28,7 @@ const Home = () => {
             </button>
           </div>
         </div>
-        <div  className="h-[350px] w-[350px]" >
+        <div  className="h-[250px] w-[250px] md:h-[350px] md:w-[350px]" >
           <img
             className="rounded-2xl mx-auto w-2/3  md:w-full"
             src={profile}

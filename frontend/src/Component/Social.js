@@ -40,9 +40,9 @@ const Social = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "https://drive.google.com/file/d/1KeekhfvGEzJROxjWOUeYC56YbSQJdIJ3/view",
       style: "rounded-br-md",
-      download: true,
+      
     },
   ];
   return (
